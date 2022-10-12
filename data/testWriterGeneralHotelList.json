@@ -1,0 +1,12 @@
+{"hotels": [
+    {
+        "price": 1,
+        "name": "1",
+        "satisfaction": 1
+    },
+    {
+        "price": 2,
+        "name": "2",
+        "satisfaction": 2
+    }
+]}
